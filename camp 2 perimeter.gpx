@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="ExpertGPS 9.32 using Garmin GPSMAP 66sr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 https://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd">
+<rte>
+<name>RPT001-RPT001</name>
+<rtept lat="-14.43622481" lon="49.75934738">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT001</name>
+</rtept>
+<rtept lat="-14.43629380" lon="49.75938438">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT002</name>
+</rtept>
+<rtept lat="-14.43635179" lon="49.75942737">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT003</name>
+</rtept>
+<rtept lat="-14.43638382" lon="49.75944936">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT004</name>
+</rtept>
+<rtept lat="-14.43644469" lon="49.75947435">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT005</name>
+</rtept>
+<rtept lat="-14.43644376" lon="49.75940033">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT006</name>
+</rtept>
+<rtept lat="-14.43657773" lon="49.75951934">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT007</name>
+</rtept>
+<rtept lat="-14.43662676" lon="49.75942437">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT008</name>
+</rtept>
+<rtept lat="-14.43673878" lon="49.75942736">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT009</name>
+</rtept>
+<rtept lat="-14.43675076" lon="49.75936645">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT010</name>
+</rtept>
+<rtept lat="-14.43676579" lon="49.75938835">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT011</name>
+</rtept>
+<rtept lat="-14.43676377" lon="49.75950338">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT012</name>
+</rtept>
+<rtept lat="-14.43682776" lon="49.75955237">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT013</name>
+</rtept>
+<rtept lat="-14.43690083" lon="49.75962738">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT014</name>
+</rtept>
+<rtept lat="-14.43691078" lon="49.75966137">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT015</name>
+</rtept>
+<rtept lat="-14.43685578" lon="49.75981037">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT016</name>
+</rtept>
+<rtept lat="-14.43675677" lon="49.75977140">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT017</name>
+</rtept>
+<rtept lat="-14.43657773" lon="49.75986441">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT018</name>
+</rtept>
+<rtept lat="-14.43652873" lon="49.75976033">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT019</name>
+</rtept>
+<rtept lat="-14.43648177" lon="49.75975242">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT020</name>
+</rtept>
+<rtept lat="-14.43647974" lon="49.75981245">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT021</name>
+</rtept>
+<rtept lat="-14.43637573" lon="49.75973437">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT022</name>
+</rtept>
+<rtept lat="-14.43635978" lon="49.75960635">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT023</name>
+</rtept>
+<rtept lat="-14.43628876" lon="49.75966435">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT024</name>
+</rtept>
+<rtept lat="-14.43616973" lon="49.75966844">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT025</name>
+</rtept>
+<rtept lat="-14.43611080" lon="49.75965244">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT026</name>
+</rtept>
+<rtept lat="-14.43615076" lon="49.75958441">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT027</name>
+</rtept>
+<rtept lat="-14.43616073" lon="49.75952036">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT028</name>
+</rtept>
+<rtept lat="-14.43622481" lon="49.75934738">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT001</name>
+</rtept>
+<rtept lat="-14.43622481" lon="49.75934738">
+<time>2026-07-01T13:27:44.072Z</time>
+<name>RPT001</name>
+</rtept>
+</rte>
+</gpx>
